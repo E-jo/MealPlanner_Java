@@ -1,0 +1,13 @@
+pepper x4
+heat x3
+eggs x4
+bread x8
+chicken x2
+salt x6
+steak x4
+tomato x7
+lettuce x5
+beef patty x3
+bacon x5
+buns x3
+ketchup x3
